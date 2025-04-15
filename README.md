@@ -1,2 +1,2 @@
 # odin-recipes
-To be updated
+Learned to add images, create lists and link to other html files
